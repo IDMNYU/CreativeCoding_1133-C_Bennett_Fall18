@@ -32,7 +32,6 @@
 	Matrix Transformations <br>In-Class challenge<br>
 	Functions Intro <br>
 	Intro to P5 <br>
-
 	</td>
 </tr>
 
@@ -50,7 +49,7 @@
 	<td valign="top"><a href="week_5_detail.md">Oct 4</a><br><strong>Images + pixels Manipulations<br></strong></td>
 </tr>
 <tr>
-	<td span = "3"> <strong>
+	<td colspan="3"> <strong>
 	no class oct 6th - NYU Service Day (It's really Monday) </strong>
 	</td></tr>
 <tr>
