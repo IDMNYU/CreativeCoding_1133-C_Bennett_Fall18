@@ -28,7 +28,6 @@
 		<strong> <a href = "Sketch_4.md"> Sketch 4 Due </a></strong>
 	String Manipulations <br>
 	Show & Tell <br>
-	
 	</td>
 <!-- homework -->
 <tr>

@@ -36,8 +36,8 @@
   	<!-- day Thurs -->
   	<td valign="top"> 
   	
-    <li> Watch: <a href = "https://vimeo.com/channels/natureofcode/page:1"> Vectors 1.1-1.6 </a></li>
-    <a href ="http://natureofcode.com/">Nature of Code: READ Chapter 2 </a>
+      <li> Watch: <a href = "https://vimeo.com/channels/natureofcode/page:1">Vectors 1.1-1.6</a></li>
+    <a href ="http://natureofcode.com/">Nature of Code: READ Chapter 2</a>
   	</td>
  </tr>
  <!-- do -->
@@ -45,13 +45,12 @@
   <td valign = "top">do</td>
 	<!-- day Tues -->
  	<td valign = "top"> 
-  <a href = "Self_Assessment.md"> Complete the Mid-Term Self-Assessment </a><br>	
+  <a href = "Self_Assessment.md">Complete the Mid-Term Self-Assessment</a><br>	
   <a href = "Sketch_4.md"> Sketch 4 </a> <br>	
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
   	<a href = "Sketch_4.md"> Sketch 4 </a> <br>  
-  
   	</td>	
 </tr>
 </table>

@@ -20,11 +20,9 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 <td valign="top" width="48%">
-
 	Object Orientated Programming <br>
 	Passing Parameters <br>
 	In-class Challenge <br>
-
 </td>
 	<!-- day Thurs -->
 	<td valign="top" width="48%">

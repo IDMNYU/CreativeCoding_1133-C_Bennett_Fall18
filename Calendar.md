@@ -11,9 +11,9 @@
 	<th width="48%">Thursday</th> 
 </tr>
 <tr>
-	<td valign="top">1</td>
-	<td valign="top">Sept 4<br><strong>Course and Student Introductions<br>Overview of Course<br>In-Class Challenge</strong></td>
-	<td valign="top">Sept 6<br><strong>Introduction to Processing <br>Graphic basics + Variables<br></strong></td>
+	<td valign="top"><a href="week_3_detail.md">1</a></td>
+	<td valign="top"><a href="week_3_detail.md">Sept 4</a><br><strong>Course and Student Introductions<br>Overview of Course<br>In-Class Challenge</strong></td>
+	<td valign="top"><a href="week_3_detail.md">Sept 6</a><br><strong>Introduction to Processing <br>Graphic basics + Variables<br></strong></td>
 </tr>
 <tr>
 	<td valign="top"> 2 </td>
@@ -50,13 +50,13 @@
 	<td valign="top"><a href="week_5_detail.md">Oct 4</a><br><strong>Images + pixels Manipulations<br></strong></td>
 </tr>
 <tr>
-	<td>
-	no class oct 6th - NYU Service Day (It's really Monday)
+	<td span = "3"> <strong>
+	no class oct 6th - NYU Service Day (It's really Monday) </strong>
 	</td></tr>
 <tr>
 	<td> 6 </td>
-	<td valign="top"><a href="week_6_detail_A.md">Oct 11</a><br><strong>Text & Image </strong></td>
-	<td valign="top"><a href="week_6_detail_B.md">Oct 16</a><br><strong>**MidTerm** <br>Project 1 Presentations <br>
+	<td valign="top"><a href="week_6_detail.md">Oct 11</a><br><strong>Text & Image </strong></td>
+	<td valign="top"><a href="week_6_detail.md">Oct 16</a><br><strong>**MidTerm** <br>Project 1 Presentations <br>
 	</strong>
 	</td>
 </tr>
