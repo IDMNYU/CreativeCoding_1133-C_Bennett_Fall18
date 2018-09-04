@@ -11,9 +11,9 @@
 	<th width="48%">Thursday</th> 
 </tr>
 <tr>
-	<td valign="top"><a href="week_3_detail.md">1</a></td>
-	<td valign="top"><a href="week_3_detail.md">Sept 4</a><br><strong>Course and Student Introductions<br>Overview of Course<br>In-Class Challenge</strong></td>
-	<td valign="top"><a href="week_3_detail.md">Sept 6</a><br><strong>Introduction to Processing <br>Graphic basics + Variables<br></strong></td>
+	<td valign="top"><a href="week_1_detail.md">1</a></td>
+	<td valign="top"><a href="week_1_detail.md">Sept 4</a><br><strong>Course and Student Introductions<br>Overview of Course<br>In-Class Challenge</strong></td>
+	<td valign="top"><a href="week_1_detail.md">Sept 6</a><br><strong>Introduction to Processing <br>Graphic basics + Variables<br></strong></td>
 </tr>
 <tr>
 	<td valign="top"> 2 </td>
