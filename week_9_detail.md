@@ -28,8 +28,6 @@
 	<td valign="top" width="48%">
 		<strong><a href = "sketch_5.md"> Sketch 5 Due on Friday (of this week)!! </a> <br>
 	String Manipulation + API <br>
-
-		
 	</td>
 <!-- homework -->
 <tr>
@@ -42,7 +40,6 @@
   	<!-- day Thurs -->
   	<td valign="top"> 
   		<a href = "https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2"> Watch Processing 13: Text & Data </a>
-  
   	</td>
  </tr>
  <!-- do -->

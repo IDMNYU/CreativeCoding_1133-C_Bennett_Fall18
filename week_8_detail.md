@@ -52,7 +52,6 @@
   	<!-- day Thurs -->
   	<td valign = "top">
 		<a href = "Sketch_5.md"> Work on Sketch 5 </a> <br>
-
   	</td>	
 </tr>
 </table>
