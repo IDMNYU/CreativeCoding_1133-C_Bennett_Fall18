@@ -21,7 +21,6 @@
 	<!-- day Tues -->
 	<td valign="top" width="48%">
 	Text + Image
-	
 	</td>
 	<!-- day Thurs -->
 	<td valign="top" width="48%">

@@ -35,7 +35,6 @@
 	</td>
   	<!-- day Thurs -->
   	<td valign="top"> 
-  	
       <li> Watch: <a href = "https://vimeo.com/channels/natureofcode/page:1">Vectors 1.1-1.6</a></li>
     <a href ="http://natureofcode.com/">Nature of Code: READ Chapter 2</a>
   	</td>
