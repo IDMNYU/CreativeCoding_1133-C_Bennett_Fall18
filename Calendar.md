@@ -28,7 +28,7 @@
 	<td valign="top"><a href="week_3_detail.md">Sept 18</a><br><strong>Motion<br>Random<br>Functions<br>Print Statements<br>
 	Show & Tell<br></strong>
 	</td>
-	<td valign="top"><a href="week_3_detail.md">Sept 20</a><br><br>DeBugger + Loops (review)<br>
+	<td valign="top"><a href="week_3_detail.md">Sept 20</a><br><strong>Sketch 2 Due<br><br>DeBugger + Loops (review)<br>
 	Matrix Transformations <br>In-Class challenge<br>
 	Functions Intro <br>
 	Intro to P5 <br>
@@ -39,7 +39,7 @@
 	<td>4</td>
 	<td valign="top"><a href="week_4_detail.md">Sept 25</a><br><strong> P5<br>Functions + passing parameters<br>Show & Tell<br></strong>
 	</td>
-	<td valign="top"><a href="week_4_detail.md">Sept 27</a><br><strong>Object Orientated Programming <br>Methods <br>Show & Tell <br></strong>
+	<td valign="top"><a href="week_4_detail.md">Sept 27</a><br><strong><br><strong>Sketch 3 Due<br> <br>Object Orientated Programming <br>Methods <br>Show & Tell <br></strong>
 	</td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@
 <td>8</td>
 	<td valign="top"><a href="week_8_detail.md">Oct 25</a><br><strong>Vectors + Forces <br>In-class Challenge <br></strong>
 	</td>
-	<td valign="top"><a href="week_8_detail.md">Oct 30</a><br><strong>String manipulations <br>In-class Challenge <br></strong>
+	<td valign="top"><a href="week_8_detail.md">Oct 30</a><br><strong>Sketch 4 due <br>String manipulations <br>In-class Challenge <br></strong>
 	</td>
 </tr>
 <tr>
@@ -84,8 +84,9 @@
 	<td>10</td>
 	<td valign="top"><a href="week_10_detail.md"> Nov 8</a><br><strong>Physical Computing<br>
 	Show & Tell<br></strong> <br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
+	<strong>Sketch 5 due Nov 9</strong><br>
 	</td>
-	<td valign="top"><a href="week_10_detail.md">Nov 13</a><br><strong><a href = "RoundTable.md">Roundtable for Final Projects	</a> </strong>
+	<td valign="top"><a href="week_10_detail.md">Nov 13</a><br><strong><a href = "RoundTable.md">Roundtable for Final Projects (Due)	</a> </strong>
 	</td>	
 </tr>
 <tr>
@@ -97,28 +98,26 @@
 </tr>
 <tr>
 	<td>12</td>
-	<td valign="top">Nov 27<br>Topics by request<br> Show & Tell <br>
+	<td valign="top">Nov 27<br><br> <strong>Final Project: Working Prototype Due </strong><br>Topics by request<br> Show & Tell <br>
 	</td>
 	<td valign="top">Nov 29<br><strong>Sound<br>Show & Tell<br></strong>
 	</td>
 </tr>
 <tr>	
 	<td>13</td><td valign="top">Dec 4<br><strong>
-	Final Project: Working Prototype Due <br>Topics by Request <br></strong>	
+	Final Project: Beta Version Due <br>Topics by Request <br></strong>	
 	</td>
 	<td valign="top">Dec 6<br><strong>Topics by Request <br></strong></td>	
 </tr>
 <tr>	
 	<td>14</td><td valign="top">Dec 11<br><strong>Final Presentations</strong>
 	</td>
-	<td valign="top">May 4<br><strong>Final Presentations</strong>
+	<td valign="top">Dec 13<br><strong>Final Presentations</strong>
 	</td>
 </tr>
 <tr>
 	<td> 15 </td>
-	<td valign="top">Dec 13<br><strong>Final Presentations</strong>
-	</td>
-	<td valign="top">Dec 18<br><strong>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE </a> <br>Have a great summer!<br></strong>
+	<td valign="top" colspan="2">Dec 18<br><strong>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE </a><br>Have a great break!<br></strong>
 	</td>
 </tr>
 </table>

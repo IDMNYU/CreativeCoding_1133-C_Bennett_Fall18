@@ -10,8 +10,8 @@
 
 ## Dates: 
 
-### Working Prototype Due: Dec 4th
-### Beta Version Due: ....
+### Working Prototype Due: November 27th
+### Beta Version Due: Dec 4th
 ### Alpha Version Due: Dec 11 & 15th for inclass presentations
 
 **Working Prototype:** All media should be gathered; basic functionality should be evident and working in your code. Code should be commented with pseudo code for future functionality.

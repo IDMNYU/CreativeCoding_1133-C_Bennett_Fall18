@@ -38,7 +38,7 @@
   	<!-- day Thurs -->
   	<td valign="top"> 
   	<li> Learning Processing : Ch 15 + 16 </li>
-  	<li> Watch <a href = "https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2"> Learning Processing 10 Images & Pixels </a> </li> <br>
+  	<li> Watch<a href = "https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2"> Learning Processing 10 Images & Pixels </a> </li> <br>
   	</td>
  </tr>
  <!-- do -->

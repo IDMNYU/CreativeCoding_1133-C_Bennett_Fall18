@@ -1,5 +1,6 @@
 ## Sketch 4 - Vectors 
 
+####Due Oct 30th
 
 1. Take one of your previous exercises (or build a new sketch) and add vectors to it to creation motion. You could do this by taking a graphic from a previous sketch or you could make a new one. Make it into a class. That class should have vectors for loction, velocity, and acceleration. That class should also have methods that display the graphic, another method to update the variables, and possibly another to check if it's off screen. 
 

@@ -2,6 +2,8 @@
 
 ### Interactive Repetition & Drawing: Modularity, Pattern
 
+####Due Sept 20
+
  This is a 2-part Sketch
 
 

@@ -27,7 +27,7 @@
 	</td>
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	<strong> Sketch 2 Due </strong>
+	<strong> Sketch 2 Due </strong> <br>
 	DeBugger + Loops (review)<br>
 	Matrix Transformations <br>
 	In-Class challenge<br>
