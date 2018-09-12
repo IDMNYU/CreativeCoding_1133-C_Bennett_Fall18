@@ -53,7 +53,7 @@
   <td valign="top">do</td>
 	<!-- day Tues -->
 	<td valign="top">
- 	<li> Join our class on <a href ="https://www.openprocessing.org/class/XXXX">openProcessing </a> and enter code .... </li>
+ 	<li> Join our class on <a href ="https://www.openprocessing.org/class/58500">openProcessing </a> and enter code 21EA8F </li>
  	<li><a href = "Sketch_1.md"> Sketch 1 </a>
  </td>
   	<!-- day Thurs -->
