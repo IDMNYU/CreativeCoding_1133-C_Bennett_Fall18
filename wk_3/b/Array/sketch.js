@@ -5,7 +5,7 @@ list[0] = 5; // first item in my array
 list[1] = 8; // 2nd item in my array
 list[2] = 0; // 3rd
 
-var shoppingList = ["beer", "milk", "cheese","bread"];
+var shoppingList = ["beer", "milk", "cheese","bread"];  //<--- [] with javascript
 
 var values = [];
 
@@ -16,7 +16,7 @@ function setup() {
 function draw() { 
   var wednesday = 3;
   background(220);
-  //console.log(shoppingList[wednesday]);
+  console.log(shoppingList[wednesday]);
 }
 
 function mouseClicked(){

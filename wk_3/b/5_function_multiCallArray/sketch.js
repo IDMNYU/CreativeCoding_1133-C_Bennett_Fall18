@@ -48,13 +48,13 @@ function draw() {
   clrs[2] = color(220, 82, 245, r);
   
   //change variables tied with movement
-  // randMove();
-  //drunkAttract();
-  reflect();
+   //randMove();
+  drunkAttract();
+  //reflect();
   
   
   //push();
-    //translate(width/2, height/2);
+   // translate(width/2, height/2);
     display(clrs[2], clrs[4]);
   //pop();
 
