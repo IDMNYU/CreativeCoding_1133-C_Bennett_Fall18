@@ -67,6 +67,7 @@ Week 12B - Michael Hansmeyer, Waltz Binarie ---> Amanda
 
 Week 12B - Paul Prudence, Moment Factory ---> Max
 
+Week 13A - Chris Sugrue, Fernanda Viegas---> Jimmy
 
 
-Extra Credit Possibilities:  Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
+Extra Credit Possibilities:  Nina Wenhart, Rui Pereira, Todd Vanderlin, Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
