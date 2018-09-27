@@ -15,5 +15,6 @@ void draw() {
   head(30, 80);
   //eye();  /// because inside another function
   */
-  
+  fred.display(100, 100);
+  fred.head(50, 50);
 }
