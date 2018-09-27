@@ -13,16 +13,18 @@ class Monster {
 
 
 
-  Monster() {
-     w = 800;
-   ang = 45;
-     wanderX = 0;
-     wanderY = 0;
- 
-     s1 = color(60, 189, 64); //greenish yellow
+  Monster() {  // pass variables thru the constructor, 
+               // better hand at creating
+               // unique instance
+    w = 800;
+    ang = 45;
+    wanderX = 0;
+    wanderY = 0;
+
+    s1 = color(60, 189, 64); //greenish yellow
     s2 = color(59, 220, 64); //lighter green
-     blink = s1;
-     wort = color(181, 35, 203); // purple wart
+    blink = s1;
+    wort = color(181, 35, 203); // purple wart
   }
 
   void display(int wide, int tall) {
@@ -36,24 +38,23 @@ class Monster {
     fill(wort); // purple
     noStroke(); 
     ellipse(w/2 - 20 + x, w/2 + 30 + y, 20, 10);  //wart
- /*
+    /*
      head();
- 
-    fill(59, 220, 64); // lighter green
-    stroke(0); 
-    ellipse(w/2 + x, w/2 - 120 + y, wid, hei); //head  // 100, 80
-    fill(0);
-    rect(w/2 - 25 + x, w/2 - 105 + y, 60, 1); //mouth
-    fill(255);
-    triangle(w/2 + 15 + x, w/2 - 90 + y, w/2 + x, w/2-105 + y, w/2 + 30 + x, w/2 - 105 + y); //tooth
-    eye(wanderX, wanderY, x, y);
-    fill(60, 189, 64); //lighter green
-    ellipse(w/2 - 50 + x, w/2 - 200 + y, 20, 20); // left antenna point
-    ellipse(w/2 + 50 + x, w/2 - 200 + y, 20, 20); // right antenna point
-    noFill();
-    
-    */
-  
+     
+     fill(59, 220, 64); // lighter green
+     stroke(0); 
+     ellipse(w/2 + x, w/2 - 120 + y, wid, hei); //head  // 100, 80
+     fill(0);
+     rect(w/2 - 25 + x, w/2 - 105 + y, 60, 1); //mouth
+     fill(255);
+     triangle(w/2 + 15 + x, w/2 - 90 + y, w/2 + x, w/2-105 + y, w/2 + 30 + x, w/2 - 105 + y); //tooth
+     eye(wanderX, wanderY, x, y);
+     fill(60, 189, 64); //lighter green
+     ellipse(w/2 - 50 + x, w/2 - 200 + y, 20, 20); // left antenna point
+     ellipse(w/2 + 50 + x, w/2 - 200 + y, 20, 20); // right antenna point
+     noFill();
+     
+     */
   }
 
   void head(int wid, int hei) {
