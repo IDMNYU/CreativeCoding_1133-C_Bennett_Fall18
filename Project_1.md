@@ -1,4 +1,4 @@
-##Project 1 - The Unexpected Machine: Procedural Intensity/Change
+## Project 1 - The Unexpected Machine: Procedural Intensity/Change
 
 **Due Oct 16 --> In class critiques**
 
@@ -12,7 +12,7 @@ Use only the drawing functions - stuff found in the Shape, Color, Events and Mat
 
 Create custom functions that are triggered on some event, and make those functions vary. The focus of this project is procedural intensity. How expressive can you be with only line, shapes, color and movement?
 
-###Ingredients: <br>
+### Ingredients: <br>
 
 • Graphics (shape, color, line, placement, custom shapes) <br>
 • Control Structures (if, for, while) <br>
@@ -34,6 +34,7 @@ Create custom functions that are triggered on some event, and make those functio
 	• movement, change, variety <br>
 	• arrays <br>
 	• conditionals <br>
+	• OOP - with methods + passing parameters <br>
 
 	
 To give you an idea of how much development I'm looking for, your code should be beyond 150 lines of code, which incorporates the concepts we've learned thus far. Spacing, comments or commented out code are not counted as lines.
