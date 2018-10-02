@@ -1,5 +1,5 @@
 
-class Cluster() {
+class Cluster2 {
  
   constructor(n, c, x, y){
     this.num = n;
@@ -15,7 +15,7 @@ class Cluster() {
 
   
   
-    update(){}
+    update(){
     //this.velocity = this.velocity + this.acceleration;
     //this.xPos += this.velocity;
     

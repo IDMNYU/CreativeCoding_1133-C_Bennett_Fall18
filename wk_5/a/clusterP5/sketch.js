@@ -13,8 +13,8 @@ function setup() {
   background(255);
   c1 = color(87, 199, 232);
   c2 = color(168, 116, 229);
-  clust1 = new Cluster(3, c1, 100, 200);
-  clust2 = new Cluster(1, c2, 60, 80);
+  clust1 = new Cluster2(3, c1, 100, 200);
+  clust2 = new Cluster2(1, c2, 60, 80);
   
   clust1.display();
   clust2.display();
@@ -22,13 +22,13 @@ function setup() {
 
 function draw() {
   background(255);
-  //clust1.update();
-  clust1.wobble();
-  //clust1.checker();
+  clust1.update();
+  //clust1.wobble();
+  clust1.checker();
   clust1.display();
   
   clust2.wobble();
- //clust2.update();
+  //clust2.update();
   //clust2.checker();
   clust2.display();
   
@@ -40,6 +40,6 @@ function draw() {
 }
 
 function mousePressed(){
-  var newbie = new Cluster(random(1, 4), c2, mouseX, mouseY);
+  var newbie = new Cluster2(random(1, 4), c2, mouseX, mouseY);
   collection.push(newbie);
 }
