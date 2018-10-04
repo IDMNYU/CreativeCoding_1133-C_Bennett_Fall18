@@ -199,18 +199,29 @@ If you use code from online, whether for inspiration, modification or reference,
 
 ## How to Submit Assignments via GitHub
 
+You will need a web browser, finder/windows explorer, and the github for desktop application.
+
 
 Do the follow these steps for each assignment:
 
 	* 0. Save your work AND all of the necessary support files (index.html, libraries folder, pictures, media, etc) in a folder that is titled in this manner:
-					*YourFirstNameYourLastName_Ex1*, etc.
+					*YourFirstNameYourLastName_Project_1*, etc.
 
 	* 1. Upload this folder to a new repository on your GitHub account titled:
-					*CreativeCoding_Ex1*
+					*CreativeCoding_Project_1*
 
-	* 2. Create a new repository on your GitHub account online. The repository should be titled CC_Ex#, filling in the number of the exercise. Include the README.md option
+	* 2. Create a new repository on your GitHub account online. The repository should be titled CreativeCoding_Project_1, filling in the number of the exercise. Include the README.md option
 
 	* 3. Under the "Issues" tab, create a new issue. Note what bugs you are having, or where help is needed. Copy and paste the specific code in the comment area. Label the issue accordingly.
+
+	* 4. Go back to the GitHub Desktop app. In the summary field, write what additions you have made to your code in summary. In the description, add greater details, notes, and questions for me.
+
+	* 5. Hit the "sync button" in the upper right hand corner. This uploads your code to your repo page on the Github website.
+
+	* 6. Refresh your browser page of your repo. You should now see your code and files up on your repo
+
+	* 7. As you continue to work on this project, save the code on your desktop, in the folder created in step 0, and have sinced moved to be within the folder created at step 2. After saving each work session's progress, re-visit the Github desktop app to push the changes to your Github repo online. Make sure to fill out the summary and description notes. Do NOT and I repeat, DO NOT, make a new folder within this folder with the weeks editions. IE, you should not have "Week 1 work", "week 2 work", etc. Github tracks your changes and keeps them in history. It's version control! Yay!
+
 
 ## [Show and Tell](ShowAndTell.md)
 
