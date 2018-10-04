@@ -6,8 +6,14 @@ Creative Coding Syllabus &amp; Class repo
 * [Slack:](https://creativecoding1133c.slack.com/) https://creativecoding1133c.slack.com/
 * **Office Hours: by appointment** 
 
-* **GA: TBA Email: TBA**
-* **Creative Coding Club hours: TBA**
+* **GA: Che-Yu**
+* **Contact: [calendar](https://calendly.com/cyw345/office-hour-of-creative-coding-ta-che-yu/09-21-2018)  maximum 3 people per hour**
+* **Place: The red area in front of classroom 832 (with white board)** *
+
+* **Weekly Time:**
+* **1. Monday 10 AM - 6 PM**
+* **2. Wednesday 18 PM - 22 PM**
+* **3. Friday 10 AM - 6 PM**
 
 
 # Creative Coding: An Intro to Creative Coding

@@ -4,7 +4,14 @@
 * **Email:Katherine.Bennett@nyu.edu** 
 * **Office Hours: by appointment** 
 
-* **GA:TBA**
+* **GA: Che-Yu**
+* **Contact: [calendar](https://calendly.com/cyw345/office-hour-of-creative-coding-ta-che-yu/09-21-2018)  maximum 3 people per hour**
+* **Place: The red area in front of classroom 832 (with white board)** *
+
+* **Weekly Time:**
+* **1. Monday 10 AM - 6 PM**
+* **2. Wednesday 18 PM - 22 PM**
+* **3. Friday 10 AM - 6 PM**
 
 ### Required Course Materials
 • [Learning Processing, SECOND EDITION by Daniel Shiffman](http://learningprocessing.com/) ISBN-13: 978-0123944436 LP
