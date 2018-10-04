@@ -27,7 +27,7 @@ class Monster {
     wort = color(181, 35, 203); // purple wart
   }
 
-  void display(int wide, int tall) {
+  void display(int wide, int tall, int hx, int hy) {
 
     smooth();
 
@@ -38,9 +38,9 @@ class Monster {
     fill(wort); // purple
     noStroke(); 
     ellipse(w/2 - 20 + x, w/2 + 30 + y, 20, 10);  //wart
-    /*
-     head();
-     
+    ///*
+     head(hx, hy);
+     /*
      fill(59, 220, 64); // lighter green
      stroke(0); 
      ellipse(w/2 + x, w/2 - 120 + y, wid, hei); //head  // 100, 80
@@ -56,6 +56,15 @@ class Monster {
      
      */
   }
+  
+  void update(){
+  
+  wanderX = map(mouseX, 0, width, -5, 5);
+  //print("wanderX is  ");
+  //println(wanderX);
+  wanderY = map(mouseX, 0, width, -1, 1);
+  
+}
 
   void head(int wid, int hei) {
     fill(59, 220, 64); // lighter green
