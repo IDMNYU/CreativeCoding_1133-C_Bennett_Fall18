@@ -66,6 +66,7 @@ function keyPressed() {
 }
 
 class Blob {
+  
   constructor(x_, y_, n, w_){
   this.num = n; //3;
   this.xPos = x_; //0;

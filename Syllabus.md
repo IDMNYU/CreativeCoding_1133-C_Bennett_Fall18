@@ -7,7 +7,7 @@ Creative Coding Syllabus &amp; Class repo
 * **Office Hours: by appointment** 
 
 * **GA: Che-Yu**
-* **Contact: [calendar](https://calendly.com/cyw345/office-hour-of-creative-coding-ta-che-yu/09-21-2018)  maximum 3 people per hour**
+* **Contact for Che-yu: [calendar](https://calendly.com/cyw345/office-hour-of-creative-coding-ta-che-yu/09-21-2018)  maximum 3 people per hour**
 * **Place: The red area in front of classroom 832 (with white board)** *
 
 * **Weekly Time:**
