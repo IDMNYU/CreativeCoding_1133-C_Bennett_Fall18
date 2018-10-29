@@ -17,4 +17,4 @@ Requirements:
 - animation
 - movement
 - images
-- text
+- Play with: location, color, pixels
