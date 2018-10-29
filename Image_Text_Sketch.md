@@ -8,7 +8,7 @@ This collage should change over time, by user input or animation. This collage c
 
 Be expressive. You don't have to be literal. You are invited to be abstract.
 
- You must use images and you must use text. Do not use sound. You may use graphics, but you are to mainly use image and text and to choreograph them over time.
+ You must use images. Do not use sound. You may use graphics, but you are to mainly use images  and to manipulate and choreograph those manipulations over time.
 
 
 Requirements:
@@ -17,4 +17,4 @@ Requirements:
 - animation
 - movement
 - images
-- Play with: location, color, pixels
+- Play with: location, color, pixels, presence, absence
