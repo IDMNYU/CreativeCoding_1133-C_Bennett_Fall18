@@ -1,3 +1,4 @@
+
 // via Luke DuBois
 
 var theFont = new Array(4);
@@ -9,11 +10,14 @@ var fphases = new Array(4);
 var testPhase = 0;
 var speed = 0.01;
 
+var newFont;
+
 
 function preload() {
   for (var i = 0; i < theFont.length; i++) {
     theFont[i] = loadFont('data/font' + i + '.otf');
   }
+  newFont = loadFont('data/acherusgrotesque-regularitalic.otf');
 
 }
 
@@ -24,6 +28,7 @@ function setup() {
   stroke(0);
   textFont(theFont[0], fsize);
 
+
   for (var i = 0; i < fphases.length; i++) {
     fphases[i] = random(0.0, TWO_PI);
   }
@@ -32,6 +37,11 @@ function setup() {
 
 function draw() {
   background(255);
+  fill(0);
+  textFont(newFont, fsize);
+  text("hello", 20, 20);
+
+
   var thex = 50;
   var they = height / 2;
 
@@ -42,25 +52,25 @@ function draw() {
 
   var s;
   s = map(sin(fphases[0]), -1.0, 1.0, 9, 64);
-  textFont(theFont[0], s);
+  textFont(theFont[0],s);
   text('my', thex, they);
   thex += textWidth('my ');
   fphases[0] = (fphases[0] + speed) % TWO_PI;
 
   s = map(sin(fphases[1]), -1.0, 1.0, 9, 64);
-  textFont(theFont[1], 36);
+  textFont(theFont[1],36);
   text('cat', thex, they);
   thex += textWidth('cat ');
   fphases[1] = (fphases[1] + speed) % TWO_PI;
 
   s = map(sin(fphases[2]), -1.0, 1.0, 9, 64);
-  textFont(theFont[2], 36);
+  textFont(theFont[2],36);
   text('has', thex, they);
   thex += textWidth('has ');
   fphases[2] = (fphases[2] + speed) % TWO_PI;
 
   s = map(sin(fphases[3]), -1.0, 1.0, 9, 64);
-  textFont(theFont[3], 36);
+  textFont(theFont[3],36);
   text('ticks', thex, they);
   thex += textWidth('ticks ');
   fphases[3] = (fphases[3] + speed) % TWO_PI;

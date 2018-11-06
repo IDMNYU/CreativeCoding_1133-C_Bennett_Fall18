@@ -31,7 +31,7 @@ function draw() {
       //invert that relationship:
       // the closer pixels will be brighter
       // the further pixels will be darker
-      var adjustBright = map(distance, 0, 50, 8, 0);
+      var adjustBright = map(distance, 0, 50, 4, 0);
       // manipulate the color value based on the distance
       r *= adjustBright;
       g *= adjustBright;
