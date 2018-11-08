@@ -4,7 +4,7 @@ var spaceData;
 
 function setup() {
   createCanvas(200, 200);
-  loadJSON("http://api.open-notify.org/astros.json", gotData, 'jsonp');
+  loadJSON("http://api.open-notify.org/astros.json", gotData);
 }
 
 function gotData(data) {

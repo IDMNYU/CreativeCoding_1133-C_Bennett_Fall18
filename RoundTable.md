@@ -5,7 +5,7 @@
 #### 15% of your final grade (10% research + presentation; 5% participation re: others' presentations and ideas)
  
 
-#### Develop 4 DIFFERENT ideas for a [final project](Final_Project.md). For each idea, use the templates use the 1 one of the [storyboard templates](https://github.com/IDMNYU/DM-UY-1133-C-CreativeCoding-Bennett/tree/master/storyboardTemplates) to illustrate: 
+#### Develop 4 DIFFERENT ideas for a [final project](Final_Project.md). For each idea, use the templates use the 1 one of the [storyboard templates](https://github.com/IDMNYU/CreativeCoding_1133-C_Bennett_Fall18/tree/master/storyboardTemplates) to illustrate: 
 	
 * What it would look like through various stages (interaction, time)
 
