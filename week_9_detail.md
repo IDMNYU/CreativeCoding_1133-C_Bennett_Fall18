@@ -23,7 +23,7 @@
 	</td>
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-		<strong><a href = "sketch_5.md"> Sketch 5 Due on Friday (of this week)!!</a> <br>
+		<strong><a href = "Sketch_5.md"> Sketch 5 Due on Friday (of this week)!!</a> <br>
 	String Manipulation + API <br>
 	</td>
 <!-- homework -->
@@ -44,14 +44,14 @@
   <td valign = "top">do</td>
 	<!-- day Tues -->
  	<td valign = "top"> 
- 		<a href = "sketch_5.md"> Work on Sketch 5 </a> <br>
+ 		<a href = "Sketch_5.md"> Work on Sketch 5 </a> <br>
  		<a href = "RoundTable.md"> Work on Round Table Presentation </a> <br>Sketch your ideas for your final<br>
  		Research programming aspects necessary<br>	
  		Research other inspirations<br>
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
-  		<a href = "sketch_5.md"> Work on Sketch 5 (due Friday of this week)</a> <br>
+  		<a href = "Sketch_5.md"> Work on Sketch 5 (due Friday of this week)</a> <br>
 		<a href = "RoundTable.md"> Work on Round Table Presentation </a> <br>	
  		Sketch your ideas for your final <br>
  		Research programming aspects necessary <br>	
