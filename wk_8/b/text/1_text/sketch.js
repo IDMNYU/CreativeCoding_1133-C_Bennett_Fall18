@@ -20,7 +20,7 @@ function setup() {
   createCanvas(1000, 1000);
 
   myString = "Messages from a far away place, coming to you....";
-  string2 = "Tonight: Donald Trump lies once more.........People still in awe";
+  string2 = "Tonight: Donald Trump lies once more.........People still surprised.";
 }
 
 function draw() {
