@@ -7,7 +7,7 @@ function setup() {
   // Create and start the sine oscillator
   sine = new p5.Oscillator();
   sine.setType('sine');
-  sine.freq(300);
+  sine.freq(800);
   sine.amp(0.25);
   sine.start();
 }
