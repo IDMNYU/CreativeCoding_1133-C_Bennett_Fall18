@@ -116,8 +116,8 @@
 	</td>
 </tr>
 <tr>
-	<td> 15 </td>
-	<td valign="top" colspan="2">Dec 18<br><strong>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE </a><br>Have a great break!<br></strong>
+	<td> -- </td>
+	<td valign="top" colspan="2">Dec 14<br><strong>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE </a><br>Have a great break!<br></strong>
 	</td>
 </tr>
 </table>

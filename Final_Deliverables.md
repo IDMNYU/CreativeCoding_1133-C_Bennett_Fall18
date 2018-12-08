@@ -22,13 +22,13 @@ Using Word or another text editor, reflect on the following:
 # Also do each of the following:
 
 ### Documentation of your final project: 
-• Take several screen shots of application running. If it's interactive take some photos of someone interacting with it.
+• Take several screen shots of application running. Infact, [shoot a short video of the screen](https://mac-how-to.gadgethacks.com/how-to/record-your-macs-screen-for-free-using-quicktime-0166773/). If it's interactive take some photos of someone interacting with it. Get good, crisp, well lit, clear shots.
 
-• copy and pasted into Sublime and take a screen shots of code
+• copy and pasted 2-3 screen shots of code into Sublime that you are most proud of.
 
 • concept paragraph answering the following: What is your piece about? What's the concept? Is it interactive, responsive or time based?, name of piece
 
-• Email me the above documents.
+• Direct message me the above documents and post them to your github repo for the final project.
 
 
 • Submit any missing exercises to get credit for them. Post them to github and email me that they are up.
